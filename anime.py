@@ -32,12 +32,12 @@ def anime_get_content():
     s_content += '      <link href="style.css" rel="stylesheet" type="text/css" />'
     s_content += '   </head>'
     s_content += '<body>'
-    s_content += '<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">'
+    s_content += '<p style = "font-family:georgia,garamond,serif;font-size:20px;font-style:bold;">'
 
 
-    s_content += '---------------<br>\n'
+    s_content += '-----------------------------------<br>\n'
     s_content += '---ANIMEBATTLEGENERATOR.CO.UK.COM--<br>\n'
-    s_content += '---------------<br>\n'
+    s_content += '-----------------------------------<br>\n'
 
 
     for _ in range(2):
